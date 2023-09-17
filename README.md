@@ -1,2 +1,2 @@
 # bytekitty.github.io
-simple and basic site for fucking around
+basic site for fucking around
